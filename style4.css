@@ -55,6 +55,12 @@ p {
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
+  width: 30px;
+}
+
+.actions a:hover {
+  background-color: #004E89;
+  color: #9DD1F1;
 }
 
 #gameboard {
